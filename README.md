@@ -1,4 +1,5 @@
 ### Hi there 👋
+My name is Adil, and I am a Sr. Software Engineer and Architect.
 
 - 🔭 I’m currently working on the react-native mobile app for the Liquality cross-chain wallet
 - 🌱 I’m currently learning about how to make the different blockchains play nice with each other
