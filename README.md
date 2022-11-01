@@ -7,3 +7,5 @@ My name is Adil, and I am a Sr. Software Engineer and Architect.
 - 🤔 I’m looking for help with how I can help others
 - 💬 Ask me about the mistakes I made in my career so you don't have to make them
 - 📫 How to reach me: @aviroues on Twitter
+
+https://github-readme-stats.vercel.app/api?username=adilmezghouti
