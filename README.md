@@ -9,4 +9,4 @@ My name is Adil Mezghouti, and I am a Sr. Software Engineer and Architect.
 - 📫 How to reach me: @aviroues on Twitter
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adilmezghouti)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adilmezghouti&layout=compact)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adilmezghouti&layout=compact)](https://github.com/anuraghazra)
